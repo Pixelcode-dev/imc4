@@ -22,3 +22,9 @@ Basta copiar o script ou importar no seu projeto.
 
 ## 📜 Licença
 Código totalmente livre para uso.
+
+###
+
+<h2>
+⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
+</h2>
